@@ -1,10 +1,10 @@
 ##Practice Heroku Deploy
 
 #### Create an account on Heroku
-[https://signup.heroku.com/dc]()
+[https://signup.heroku.com/dc](https://signup.heroku.com/dc)
 
 #### Follow the setup guide for Node.js appilcations
-[https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction]()
+[https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
 
 On the "Prepare the App" section, instead of cloning heroku's example node application, **use your own node express application** like the one we have been working on in class.
 
